@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Evan Phillips, a Data Scientist with a passion for NLP and Deep Learning!
+## Hi there! 👋 I'm Evan Phillips, a Data Scientist with a passion for Machine Learning!
 
 🌟 Welcome to my GitHub profile! I'm thrilled to have you here. I'm an enthusiastic Data Scientist with a focus on leveraging the power of NLP and Deep Learning to unravel the complexities of human language. Here's a little more about me:
 
