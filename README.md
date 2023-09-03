@@ -6,7 +6,7 @@
 
 - 🚀 Current Projects: Currently, I'm immersed in a project that involves utilizing Convolutional Neural Networks (CNNs) to tackle the challenges of handling complex text, audio, and image data. I'm excited to share my progress with you!
 
-- 💡 Continuous Learning: I believe in the power of lifelong learning. I'm always seeking new opportunities to expand my skill set, whether that's diving into the latest research papers, experimenting with new libraries, or collaborating on exciting projects.
+- 💡 Continuous Learning: I believe in the power of lifelong learning. I'm always seeking new opportunities to expand my skill set, whether that's diving into the latest research papers, experimenting with new libraries, learning on DataCamp, contributing on Kaggle, or collaborating on exciting projects.
 
 - 📚 Open Source Contributions: You'll find a variety of repositories here, ranging from code snippets and experiments to full-fledged projects. Feel free to explore, learn, and provide feedback. Collaboration is at the heart of innovation!
 
