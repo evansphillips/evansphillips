@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm thrilled to have you here. I'm an enthusiastic Data Scientist with a focus on leveraging the power of NLP and Deep Learning to unravel the complexities of human language. Here's a little more about me:
 
-- 🧠 My Passion: I'm deeply passionate about Machine Learning, particularly NLP and Deep Learning. Exploring the depths of transformers, neural networks, and innovative architectures to understand and manipulate text and speech is where my heart lies.
+- 🧠 My Passion: I'm deeply passionate about Machine Learning, particularly NLP and Deep Learning. Exploring the depths of transformers, neural networks, and innovative architectures to understand and manipulate text and speech is something I find fascinating.
 
 - 🚀 Current Projects: Currently, I'm immersed in a project that involves utilizing Convolutional Neural Networks (CNNs) to tackle the challenges of handling complex text, audio, and image data. I'm excited to share my progress with you!
 
