@@ -15,5 +15,3 @@ Welcome to my GitHub profile! I'm thrilled to have you here. I'm an enthusiastic
 📫 Reach out to me through:
 - LinkedIn: [evansphillips](https://www.linkedin.com/in/evansphillips/)
 - Email: evansphillips@berkeley.edu
-
-Looking forward to our journey of learning and innovation together! 🚀
